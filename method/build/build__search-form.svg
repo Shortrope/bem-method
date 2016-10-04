@@ -18,12 +18,17 @@
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <rect id="path-5" x="0" y="0" width="424" height="32" rx="3"></rect>
+        <rect id="path-5" x="0" y="0" width="494.82949" height="32" rx="3"></rect>
         <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
-            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
-            <feOffset dx="0" dy="0" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
-            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -59,17 +64,17 @@
                     </g>
                 </g>
                 <g id="Search-form">
-                    <g id="Search-Action" transform="translate(0.000000, 31.000000)">
+                    <g id="Search-Shadow" transform="translate(0.000000, 31.000000)">
                         <g id="Input">
                             <g id="Rectangle-12">
-                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
                                 <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
                             </g>
                         </g>
-                        <g id="Button" transform="translate(423.000000, 0.000000)">
-                            <rect id="Rectangle-12" fill="#FFDB4D" x="0" y="0" width="72" height="32"></rect>
+                        <g id="Button" transform="translate(422.841564, 0.000000)">
+                            <rect id="Rectangle-12" fill="#FFDB4D" x="0" y="0" width="72.9527904" height="32"></rect>
                             <text id="Найти" font-family="ArialMT, Arial" font-size="13" font-weight="normal" fill="#000000">
-                                <tspan x="18" y="20">Найти</tspan>
+                                <tspan x="18.2381976" y="20">Найти</tspan>
                             </text>
                         </g>
                     </g>
