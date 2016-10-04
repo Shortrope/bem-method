@@ -97,7 +97,7 @@ library/                # Уровень библиотеки
 
   Рассмотрим пример:
 
-  ![Уровни переопределения](build__levels.png)
+  ![Уровни переопределения](https://rawgit.com/bem-site/bem-method/godfreyd-methodology-deps/method/build/build__search-form.svg)
 
   С уровня `common` подключаются общие компоненты для всех платформ, а с уровней `desktop` и `touch` — компоненты, специфичные для каждой из платформ.
 
