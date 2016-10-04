@@ -27,9 +27,9 @@
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="iPad-Pro-Portrait" transform="translate(36.000000, 30.000000)">
+        <g id="iPad-Pro-Portrait" transform="translate(37.000000, 30.000000)">
             <g id="build__declaration">
-                <g id="Input" transform="translate(9.000000, 172.000000)">
+                <g id="Input" transform="translate(8.000000, 172.000000)">
                     <g id="input-m-release/empty-rounded" transform="translate(0.000000, 31.000000)">
                         <g id="Rectangle-58">
                             <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
@@ -42,7 +42,7 @@
                         </text>
                     </g>
                 </g>
-                <g id="Button" transform="translate(406.000000, 172.000000)">
+                <g id="Button" transform="translate(405.000000, 172.000000)">
                     <g id="button-m-pseudo" transform="translate(11.000000, 31.000000)">
                         <g id="Rectangle-58">
                             <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
@@ -66,23 +66,23 @@
                                 <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
                             </g>
                         </g>
-                        <g id="Button" transform="translate(424.000000, 0.000000)">
+                        <g id="Button" transform="translate(423.000000, 0.000000)">
                             <rect id="Rectangle-12" fill="#FFDB4D" x="0" y="0" width="72" height="32"></rect>
                             <text id="Найти" font-family="ArialMT, Arial" font-size="13" font-weight="normal" fill="#000000">
                                 <tspan x="18" y="20">Найти</tspan>
                             </text>
                         </g>
                     </g>
-                    <g id="Block-`search-form`" transform="translate(186.000000, 0.000000)" font-size="13" font-family="Helvetica-Bold, Helvetica" fill="#333333" font-weight="bold">
+                    <g id="Block-`search-form`" transform="translate(185.000000, 0.000000)" font-size="13" font-family="Helvetica-Bold, Helvetica" fill="#333333" font-weight="bold">
                         <text>
                             <tspan x="0.411377" y="13">Block `search-form`</tspan>
                         </text>
                     </g>
                 </g>
-                <g id="input-arrow" transform="translate(147.998064, 120.501033) rotate(-160.000000) translate(-147.998064, -120.501033) translate(142.998064, 91.001033)" fill="#FF6666">
+                <g id="input-arrow" transform="translate(146.998064, 120.501033) rotate(-160.000000) translate(-146.998064, -120.501033) translate(141.998064, 91.001033)" fill="#FF6666">
                     <path d="M-23.8,28.6805556 L25.8,28.6805556 L25.8,30.3194444 L-23.8,30.3194444 L-23.8,28.6805556 L-23.8,28.6805556 L-23.8,28.6805556 L-23.8,28.6805556 L-23.8,28.6805556 L-23.8,28.6805556 Z M33.8,29.5 L25.8,33.5972222 L25.8,25.4027778 L33.8,29.5 L33.8,29.5 L33.8,29.5 L33.8,29.5 L33.8,29.5 L33.8,29.5 Z" id="arrow" transform="translate(5.000000, 29.500000) rotate(90.000000) translate(-5.000000, -29.500000) "></path>
                 </g>
-                <g id="button-arrow" transform="translate(432.998064, 120.501033) rotate(-200.000000) translate(-432.998064, -120.501033) translate(427.998064, 91.001033)" fill="#FF6666">
+                <g id="button-arrow" transform="translate(431.998064, 120.501033) rotate(-200.000000) translate(-431.998064, -120.501033) translate(426.998064, 91.001033)" fill="#FF6666">
                     <path d="M-23.8,28.6805556 L25.8,28.6805556 L25.8,30.3194444 L-23.8,30.3194444 L-23.8,28.6805556 L-23.8,28.6805556 L-23.8,28.6805556 L-23.8,28.6805556 L-23.8,28.6805556 L-23.8,28.6805556 Z M33.8,29.5 L25.8,33.5972222 L25.8,25.4027778 L33.8,29.5 L33.8,29.5 L33.8,29.5 L33.8,29.5 L33.8,29.5 L33.8,29.5 Z" id="arrow" transform="translate(5.000000, 29.500000) rotate(90.000000) translate(-5.000000, -29.500000) "></path>
                 </g>
             </g>
