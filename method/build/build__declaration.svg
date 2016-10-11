@@ -1,1 +1,392 @@
-<svg width="734" height="413" viewBox="0 0 734 413" xmlns="http://www.w3.org/2000/svg"><title>build__declaration</title><g transform="translate(0 -3)" fill="none" fill-rule="evenodd"><g font-size="13"><text transform="translate(65 376)" fill="#000"><tspan x="0" y="13">└──popup/</tspan></text><text transform="translate(65 360)" fill="#000"><tspan x="0" y="14">├</tspan> <tspan x="13" y="14">──</tspan></text><text transform="translate(104 361)" fill="#F66"><tspan x=".4" y="13">langswitch/</tspan></text><text transform="translate(65 345)" fill="#000"><tspan x="0" y="14">├</tspan> <tspan x="13" y="14">──image/</tspan></text><text transform="translate(65 330)" fill="#000"><tspan x="0" y="14">├</tspan> <tspan x="13" y="14">──icon/</tspan></text><text transform="translate(65 315)" fill="#000"><tspan x="0" y="14">├</tspan> <tspan x="13" y="14">──</tspan></text><text transform="translate(104 316)" fill="#F66"><tspan x=".4" y="13">input/</tspan></text><text transform="translate(65 300)" fill="#000"><tspan x="0" y="14">├</tspan> <tspan x="13" y="14">──</tspan></text><text transform="translate(104 301)" fill="#F66"><tspan x=".4" y="13">button/</tspan></text><text transform="translate(33 286)" fill="#000"><tspan x="0" y="13">└──lib/</tspan></text><text transform="translate(65 271)" fill="#000"><tspan x="0" y="13">└──link/</tspan></text><text transform="translate(65 255)" fill="#000"><tspan x="0" y="14">├</tspan> <tspan x="13" y="14">──icon/</tspan></text><text transform="translate(65 240)" fill="#000"><tspan x="0" y="14">├</tspan> <tspan x="13" y="14">──</tspan></text><text transform="translate(104 240)" fill="#F66"><tspan x=".4" y="13">logo/</tspan></text><text transform="translate(65 225)" fill="#000"><tspan x="0" y="14">├</tspan> <tspan x="13" y="14">──</tspan></text><text transform="translate(104 226)" fill="#F66"><tspan x=".4" y="13">input/</tspan></text><text transform="translate(65 210)" fill="#000"><tspan x="0" y="14">├</tspan> <tspan x="13" y="14">──</tspan></text><text transform="translate(104 211)" fill="#F66"><tspan x=".4" y="13">button/</tspan></text><text transform="translate(33 196)" fill="#000"><tspan x="0" y="13">└──blocks/</tspan></text><text transform="translate(1 181)" fill="#000"><tspan x="0" y="13">project/</tspan></text><text transform="translate(0 151)" fill="#333" font-weight="bold"><tspan x="0" y="13">Source files</tspan></text></g><path d="M192 219h31v1h-31v-1zm36 .5l-5 2.5v-5l5 2.5zM192 234h31v1h-31v-1zm36 .5l-5 2.5v-5l5 2.5zM192 249h31v1h-31v-1zm36 .5l-5 2.5v-5l5 2.5zM192 309h31v1h-31v-1zm36 .5l-5 2.5v-5l5 2.5zM192 324h31v1h-31v-1zm36 .5l-5 2.5v-5l5 2.5zM192 369h31v1h-31v-1zm36 .5l-5 2.5v-5l5 2.5z" fill="#F66"/><text transform="translate(263)" font-size="13" fill="#333" font-weight="bold"><tspan x=".411" y="13">Declaration</tspan></text><path d="M194 126h-1.01c-1.65 0-2.99-4.222-2.99-9.4V41.4c0-5.191 1.343-9.4 2.997-9.4H194" stroke-opacity=".8" stroke="#000"/><path d="M177 126h-1.01c-1.65 0-2.99-4.222-2.99-9.4V41.4c0-5.191 1.343-9.4 2.997-9.4H177"/><path d="M403 126h1.01c1.65 0 2.99-4.222 2.99-9.4V41.4c0-5.191-1.343-9.4-2.997-9.4H403" stroke-opacity=".8" stroke="#000"/><path d="M425 126h-1.01c-1.65 0-2.99-4.222-2.99-9.4V41.4c0-5.191 1.343-9.4 2.997-9.4H425"/><g font-size="13"><text transform="translate(204 107)" fill="#000"><tspan x="0" y="13">];</tspan></text><text transform="translate(382 92)" fill="#000"><tspan x=".8" y="13">}</tspan></text><text transform="translate(307 92)" fill="#F66"><tspan x="0" y="13">&quot;langswitch&quot;</tspan></text><text transform="translate(292 92)" fill="#000"><tspan x="0" y="13">:</tspan></text><text transform="translate(245 92)" fill="#F66"><tspan x="0" y="13">&quot;name&quot;</tspan></text><text transform="translate(230 92)" fill="#000"><tspan x="0" y="13">{</tspan></text><text transform="translate(350 77)" fill="#000"><tspan x=".8" y="13">},</tspan></text><text transform="translate(307 77)" fill="#F66"><tspan x="0" y="13">&quot;input&quot;</tspan></text><text transform="translate(292 77)" fill="#000"><tspan x="0" y="13">:</tspan></text><text transform="translate(245 77)" fill="#F66"><tspan x="0" y="13">&quot;name&quot;</tspan></text><text transform="translate(230 77)" fill="#000"><tspan x="0" y="13">{</tspan></text><text transform="translate(346 62)" fill="#000"><tspan x=".8" y="13">},</tspan></text><text transform="translate(307 62)" fill="#F66"><tspan x="0" y="13">&quot;logo&quot;</tspan></text><text transform="translate(292 62)" fill="#000"><tspan x="0" y="13">:</tspan></text><text transform="translate(245 62)" fill="#F66"><tspan x="0" y="13">&quot;name&quot;</tspan></text><text transform="translate(230 62)" fill="#000"><tspan x="0" y="13">{</tspan></text><text transform="translate(358 47)" fill="#000"><tspan x=".8" y="13">},</tspan></text><text transform="translate(307 47)" fill="#F66"><tspan x="0" y="13">&quot;button&quot;</tspan></text><text transform="translate(292 47)" fill="#000"><tspan x="0" y="13">:</tspan></text><text transform="translate(245 47)" fill="#F66"><tspan x="0" y="13">&quot;name&quot;</tspan></text><text transform="translate(230 47)" fill="#000"><tspan x="0" y="13">{</tspan></text><g fill="#000"><text transform="translate(321 32)"><tspan x="0" y="13">= [</tspan></text></g><g fill="teal"><text transform="translate(204 32)"><tspan x="0" y="13">exports.blocks</tspan></text></g></g><path d="M299 138v31h-1v-31h1zm-.5 36l-2.5-5h5l-2.5 5z" fill="#F66"/><rect stroke-opacity=".2" stroke="#000" fill-opacity=".05" fill="#000" x="249" y="185" width="100" height="230" rx="3"/><rect stroke="#FFF" x="249" y="185" width="100" height="230" rx="3"/><text transform="translate(281.5 291)" font-size="13" fill="#333" font-weight="bold"><tspan x=".434" y="13.541">Build</tspan></text><path stroke-opacity=".1" stroke="#000" fill="#F6F5F3" d="M426 217h307v181H426z"/><g font-size="13"><text transform="translate(442 229)" fill="#A71D5D"><tspan x="0" y="13">@import</tspan></text><text transform="translate(504 229)" fill="#183691"><tspan x=".4" y="13">“lib/button/button.css”</tspan></text><text transform="translate(629 229)" fill="#333"><tspan x=".8" y="13">;</tspan></text><text transform="translate(442 244)" fill="#A71D5D"><tspan x="0" y="13">@import</tspan></text><text transform="translate(504 244)" fill="#183691"><tspan x=".4" y="13">“blocks/button/button.css”</tspan></text><text transform="translate(654 244)" fill="#333"><tspan x=".2" y="13">;</tspan></text><text transform="translate(442 274)" fill="#A71D5D"><tspan x="0" y="13">@import</tspan></text><text transform="translate(504 274)" fill="#183691"><tspan x=".4" y="13">“lib/input/input.css”</tspan></text><text transform="translate(614 274)" fill="#333"><tspan x=".2" y="13">;</tspan></text><text transform="translate(442 289)" fill="#A71D5D"><tspan x="0" y="13">@import</tspan></text><text transform="translate(504 289)" fill="#183691"><tspan x=".4" y="13">“blocks/input/input.css”</tspan></text><text transform="translate(637 289)" fill="#333"><tspan x=".6" y="13">;</tspan></text><text transform="translate(442 319)" fill="#A71D5D"><tspan x="0" y="13">@import</tspan></text><text transform="translate(504 319)" fill="#183691"><tspan x=".4" y="13">“lib/langswitch/</tspan></text><text transform="translate(590 319)" fill="#183691"><tspan x="0" y="13">langswitch.css”</tspan></text><text transform="translate(680 318)" fill="#333"><tspan x="0" y="13">;</tspan></text><text transform="translate(442 349)" fill="#A71D5D"><tspan x="0" y="13">@import</tspan></text><text transform="translate(504 349)" fill="#183691"><tspan x=".4" y="13">“blocks/logo/logo.css”</tspan></text><text transform="translate(631 349)" fill="#333"><tspan x="0" y="13">;</tspan></text></g><text transform="translate(544 187)" font-size="13" fill="#333" font-weight="bold"><tspan x=".411" y="13">project.css</tspan></text><g fill="#F66"><path d="M370 300h31v1h-31v-1zm36 .5l-5 2.5v-5l5 2.5z"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="734px" height="413px" viewBox="0 0 734 413" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>build__declaration</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="build__declaration" transform="translate(0.000000, -3.000000)">
+            <g id="Group">
+                <g transform="translate(0.000000, 151.000000)" font-size="13">
+                    <g transform="translate(65.000000, 225.000000)" id="└──popup/" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text>
+                            <tspan x="0" y="13">└──popup/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 209.000000)" fill="#000000" font-weight="normal">
+                        <text id="├" font-family="PingFangSC-Regular, PingFang SC">
+                            <tspan x="0" y="14">├</tspan>
+                        </text>
+                        <text id="──" font-family="Helvetica">
+                            <tspan x="13" y="14">──</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(104.000000, 210.000000)" id="langswitch/" font-family="Helvetica" fill="#FF6666" font-weight="normal">
+                        <text>
+                            <tspan x="0.4" y="13">langswitch/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 194.000000)" fill="#000000" font-weight="normal">
+                        <text id="├" font-family="PingFangSC-Regular, PingFang SC">
+                            <tspan x="0" y="14">├</tspan>
+                        </text>
+                        <text id="──image/" font-family="Helvetica">
+                            <tspan x="13" y="14">──image/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 179.000000)" fill="#000000" font-weight="normal">
+                        <text id="├" font-family="PingFangSC-Regular, PingFang SC">
+                            <tspan x="0" y="14">├</tspan>
+                        </text>
+                        <text id="──icon/" font-family="Helvetica">
+                            <tspan x="13" y="14">──icon/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 164.000000)" fill="#000000" font-weight="normal">
+                        <text id="├" font-family="PingFangSC-Regular, PingFang SC">
+                            <tspan x="0" y="14">├</tspan>
+                        </text>
+                        <text id="──" font-family="Helvetica">
+                            <tspan x="13" y="14">──</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(104.000000, 165.000000)" id="input/" font-family="Helvetica" fill="#FF6666" font-weight="normal">
+                        <text>
+                            <tspan x="0.4" y="13">input/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 149.000000)" fill="#000000" font-weight="normal">
+                        <text id="├" font-family="PingFangSC-Regular, PingFang SC">
+                            <tspan x="0" y="14">├</tspan>
+                        </text>
+                        <text id="──" font-family="Helvetica">
+                            <tspan x="13" y="14">──</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(104.000000, 150.000000)" id="button/" font-family="Helvetica" fill="#FF6666" font-weight="normal">
+                        <text>
+                            <tspan x="0.4" y="13">button/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(33.000000, 135.000000)" id="└──lib/" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text>
+                            <tspan x="0" y="13">└──lib/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 120.000000)" id="└──link/" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text>
+                            <tspan x="0" y="13">└──link/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 104.000000)" fill="#000000" font-weight="normal">
+                        <text id="├" font-family="PingFangSC-Regular, PingFang SC">
+                            <tspan x="0" y="14">├</tspan>
+                        </text>
+                        <text id="──icon/" font-family="Helvetica">
+                            <tspan x="13" y="14">──icon/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 89.000000)" fill="#000000" font-weight="normal">
+                        <text id="├" font-family="PingFangSC-Regular, PingFang SC">
+                            <tspan x="0" y="14">├</tspan>
+                        </text>
+                        <text id="──" font-family="Helvetica">
+                            <tspan x="13" y="14">──</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(104.000000, 89.000000)" id="logo/" font-family="Helvetica" fill="#FF6666" font-weight="normal">
+                        <text>
+                            <tspan x="0.4" y="13">logo/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 74.000000)" fill="#000000" font-weight="normal">
+                        <text id="├" font-family="PingFangSC-Regular, PingFang SC">
+                            <tspan x="0" y="14">├</tspan>
+                        </text>
+                        <text id="──" font-family="Helvetica">
+                            <tspan x="13" y="14">──</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(104.000000, 75.000000)" id="input/" font-family="Helvetica" fill="#FF6666" font-weight="normal">
+                        <text>
+                            <tspan x="0.4" y="13">input/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(65.000000, 59.000000)" fill="#000000" font-weight="normal">
+                        <text id="├" font-family="PingFangSC-Regular, PingFang SC">
+                            <tspan x="0" y="14">├</tspan>
+                        </text>
+                        <text id="──" font-family="Helvetica">
+                            <tspan x="13" y="14">──</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(104.000000, 60.000000)" id="button/" font-family="Helvetica" fill="#FF6666" font-weight="normal">
+                        <text>
+                            <tspan x="0.4" y="13">button/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(33.000000, 45.000000)" id="└──blocks/" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text>
+                            <tspan x="0" y="13">└──blocks/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(1.000000, 30.000000)" id="project/" font-family="Helvetica" fill="#000000" font-weight="normal">
+                        <text>
+                            <tspan x="0" y="13">project/</tspan>
+                        </text>
+                    </g>
+                    <g id="Source-files" font-family="Helvetica-Bold, Helvetica" fill="#333333" font-weight="bold">
+                        <text>
+                            <tspan x="0" y="13">Source files</tspan>
+                        </text>
+                    </g>
+                </g>
+                <path d="M192,219 L223,219 L223,220 L192,220 L192,219 L192,219 Z M228,219.5 L223,222 L223,217 L228,219.5 L228,219.5 Z M192,234 L223,234 L223,235 L192,235 L192,234 L192,234 Z M228,234.5 L223,237 L223,232 L228,234.5 L228,234.5 Z M192,249 L223,249 L223,250 L192,250 L192,249 L192,249 Z M228,249.5 L223,252 L223,247 L228,249.5 L228,249.5 Z M192,309 L223,309 L223,310 L192,310 L192,309 L192,309 Z M228,309.5 L223,312 L223,307 L228,309.5 L228,309.5 Z M192,324 L223,324 L223,325 L192,325 L192,324 L192,324 Z M228,324.5 L223,327 L223,322 L228,324.5 L228,324.5 Z M192,369 L223,369 L223,370 L192,370 L192,369 L192,369 Z M228,369.5 L223,372 L223,367 L228,369.5 L228,369.5 Z" id="Shape" fill="#FF6666"></path>
+                <g transform="translate(263.000000, 0.000000)" id="Declaration" font-size="13" font-family="Helvetica-Bold, Helvetica" fill="#333333" font-weight="bold">
+                    <text>
+                        <tspan x="0.411" y="13">Declaration</tspan>
+                    </text>
+                </g>
+                <path d="M194,126 L192.99,126 C191.34,126 190,121.778 190,116.6 L190,41.4 C190,36.209 191.343,32 192.997,32 L194,32" id="Shape" stroke-opacity="0.8" stroke="#000000"></path>
+                <path d="M177,126 L175.99,126 C174.34,126 173,121.778 173,116.6 L173,41.4 C173,36.209 174.343,32 175.997,32 L177,32" id="Shape"></path>
+                <path d="M403,126 L404.01,126 C405.66,126 407,121.778 407,116.6 L407,41.4 C407,36.209 405.657,32 404.003,32 L403,32" id="Shape" stroke-opacity="0.8" stroke="#000000"></path>
+                <path d="M425,126 L423.99,126 C422.34,126 421,121.778 421,116.6 L421,41.4 C421,36.209 422.343,32 423.997,32 L425,32" id="Shape"></path>
+                <g transform="translate(204.000000, 32.000000)" font-size="13" font-family="Helvetica" font-weight="normal">
+                    <g transform="translate(0.000000, 75.000000)" id="];" fill="#000000">
+                        <text>
+                            <tspan x="0" y="13">];</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(174.000000, 60.000000)" id="}" fill="#000000">
+                        <text>
+                            <tspan x="0.8" y="13">}</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(103.000000, 60.000000)" id="&quot;langswitch&quot;" fill="#FF6666">
+                        <text>
+                            <tspan x="0" y="13">"langswitch"</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(88.000000, 60.000000)" id=":" fill="#000000">
+                        <text>
+                            <tspan x="0" y="13">:</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(41.000000, 60.000000)" id="&quot;name&quot;" fill="#FF6666">
+                        <text>
+                            <tspan x="0" y="13">"name"</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(26.000000, 60.000000)" id="{" fill="#000000">
+                        <text>
+                            <tspan x="0" y="13">{</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(142.000000, 45.000000)" id="}," fill="#000000">
+                        <text>
+                            <tspan x="0.8" y="13">},</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(103.000000, 45.000000)" id="&quot;input&quot;" fill="#FF6666">
+                        <text>
+                            <tspan x="0" y="13">"input"</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(88.000000, 45.000000)" id=":" fill="#000000">
+                        <text>
+                            <tspan x="0" y="13">:</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(41.000000, 45.000000)" id="&quot;name&quot;" fill="#FF6666">
+                        <text>
+                            <tspan x="0" y="13">"name"</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(26.000000, 45.000000)" id="{" fill="#000000">
+                        <text>
+                            <tspan x="0" y="13">{</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(138.000000, 30.000000)" id="}," fill="#000000">
+                        <text>
+                            <tspan x="0.8" y="13">},</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(103.000000, 30.000000)" id="&quot;logo&quot;" fill="#FF6666">
+                        <text>
+                            <tspan x="0" y="13">"logo"</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(88.000000, 30.000000)" id=":" fill="#000000">
+                        <text>
+                            <tspan x="0" y="13">:</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(41.000000, 30.000000)" id="&quot;name&quot;" fill="#FF6666">
+                        <text>
+                            <tspan x="0" y="13">"name"</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(26.000000, 30.000000)" id="{" fill="#000000">
+                        <text>
+                            <tspan x="0" y="13">{</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(150.000000, 15.000000)" id="}," fill="#000000">
+                        <text>
+                            <tspan x="0.8" y="13">},</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(103.000000, 15.000000)" id="&quot;button&quot;" fill="#FF6666">
+                        <text>
+                            <tspan x="0" y="13">"button"</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(88.000000, 15.000000)" id=":" fill="#000000">
+                        <text>
+                            <tspan x="0" y="13">:</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(41.000000, 15.000000)" id="&quot;name&quot;" fill="#FF6666">
+                        <text>
+                            <tspan x="0" y="13">"name"</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(26.000000, 15.000000)" id="{" fill="#000000">
+                        <text>
+                            <tspan x="0" y="13">{</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(117.000000, 0.000000)" id="=-[" fill="#000000">
+                        <g>
+                            <text>
+                                <tspan x="0" y="13">= [</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="exports.blocks" fill="#008080">
+                        <g>
+                            <text>
+                                <tspan x="0" y="13">exports.blocks</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <path d="M299,138 L299,169 L298,169 L298,138 L299,138 L299,138 Z M298.5,174 L296,169 L301,169 L298.5,174 L298.5,174 Z" id="Shape" fill="#FF6666"></path>
+                <rect id="Rectangle-path" stroke-opacity="0.2" stroke="#000000" fill-opacity="0.05" fill="#000000" x="249" y="185" width="100" height="230" rx="3"></rect>
+                <rect id="Rectangle-path" stroke="#FFFFFF" x="249" y="185" width="100" height="230" rx="3"></rect>
+                <g transform="translate(281.500000, 291.000000)" id="Build" font-size="13" font-family="Helvetica-Bold, Helvetica" fill="#333333" font-weight="bold">
+                    <text>
+                        <tspan x="0.434" y="13.541">Build</tspan>
+                    </text>
+                </g>
+                <polygon id="Shape" stroke-opacity="0.1" stroke="#000000" fill="#F6F5F3" points="426 217 733 217 733 394 426 394"></polygon>
+                <g transform="translate(442.000000, 229.000000)" font-family="Helvetica" font-weight="normal">
+                    <g id="@import" font-size="13" fill="#A71D5D">
+                        <text>
+                            <tspan x="0" y="13">@import</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(62.000000, 0.000000)" id="“lib/button/button.css”" font-size="13" fill="#183691">
+                        <text>
+                            <tspan x="0.4" y="13">“lib/button/button.css”</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(185.000000, 0.000000)" id=";" font-size="13" fill="#333333">
+                        <text>
+                            <tspan x="0.8" y="13">;</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(0.000000, 15.000000)" id="@import" font-size="13" fill="#A71D5D">
+                        <text>
+                            <tspan x="0" y="13">@import</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(62.000000, 15.000000)" id="“blocks/button/button.css”" font-size="13" fill="#183691">
+                        <text>
+                            <tspan x="0.4" y="13">“blocks/button/button.css”</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(210.000000, 15.000000)" id=";" font-size="13" fill="#333333">
+                        <text>
+                            <tspan x="0.2" y="13">;</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(0.000000, 45.000000)" id="@import" font-size="13" fill="#A71D5D">
+                        <text>
+                            <tspan x="0" y="13">@import</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(62.000000, 45.000000)" id="“lib/input/input.css”" font-size="13" fill="#183691">
+                        <text>
+                            <tspan x="0.4" y="13">“lib/input/input.css”</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(169.000000, 45.000000)" id=";" font-size="13" fill="#333333">
+                        <text>
+                            <tspan x="0.2" y="13">;</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(0.000000, 60.000000)" id="@import" font-size="13" fill="#A71D5D">
+                        <text>
+                            <tspan x="0" y="13">@import</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(62.000000, 60.000000)" id="“blocks/input/input.css”" font-size="13" fill="#183691">
+                        <text>
+                            <tspan x="0.4" y="13">“blocks/input/input.css”</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(193.000000, 60.000000)" id=";" font-size="13" fill="#333333">
+                        <text>
+                            <tspan x="0.6" y="13">;</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(0.000000, 90.000000)" id="@import" font-size="13" fill="#A71D5D">
+                        <text>
+                            <tspan x="0" y="13">@import</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(62.000000, 90.000000)" id="“lib/langswitch/" font-size="13" fill="#183691">
+                        <text>
+                            <tspan x="0.4" y="13">“lib/langswitch/</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(148.000000, 90.000000)" id="langswitch.css”" font-size="13" fill="#183691">
+                        <text>
+                            <tspan x="0" y="13">langswitch.css”</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(235.000000, 89.000000)" id=";" font-size="13" fill="#333333">
+                        <text>
+                            <tspan x="0" y="13">;</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(0.000000, 119.000000)" id="@import" font-size="14" fill="#A71D5D">
+                        <text>
+                            <tspan x="0" y="14">@import</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(62.000000, 119.000000)" id="“blocks/logo/logo.css”" font-size="14" fill="#183691">
+                        <text>
+                            <tspan x="0.4" y="14">“blocks/logo/logo.css”</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(196.000000, 119.000000)" id=";" font-size="14" fill="#333333">
+                        <text>
+                            <tspan x="0" y="14">;</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g transform="translate(544.000000, 186.000000)" id="project.css" font-size="14" font-family="Helvetica-Bold, Helvetica" fill="#333333" font-weight="bold">
+                    <text>
+                        <tspan x="0.411" y="14">project.css</tspan>
+                    </text>
+                </g>
+                <g transform="translate(370.000000, 298.000000)" id="Shape" fill="#FF6666">
+                    <path d="M0,2 L31,2 L31,3 L0,3 L0,2 L0,2 Z M36,2.5 L31,5 L31,0 L36,2.5 L36,2.5 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
