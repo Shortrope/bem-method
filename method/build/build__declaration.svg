@@ -1,427 +1,338 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="740px" height="416px" viewBox="0 0 740 416" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
-    <title>build__declaration</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="build__declaration" transform="translate(0.000000, -2.000000)">
-            <g id="Group">
-                <g transform="translate(0.000000, 151.000000)">
-                    <g id="popup/" transform="translate(108.000000, 225.000000)" font-size="16" fill="#000000" font-weight="normal">
-                        <text>
-                            <tspan x="0" y="15">popup/</tspan>
-                        </text>
-                    </g>
-                    <g id="langswitch/" transform="translate(107.000000, 210.000000)" font-size="16" fill="#FF6666" font-weight="normal">
-                        <text>
-                            <tspan x="0.4" y="15">langswitch/</tspan>
-                        </text>
-                    </g>
-                    <g id="image/" transform="translate(108.000000, 195.000000)" font-size="16" fill="#000000" font-weight="normal">
-                        <text>
-                            <tspan x="0" y="15">image/</tspan>
-                        </text>
-                    </g>
-                    <g id="icon/" transform="translate(108.000000, 180.000000)" font-size="16" fill="#000000" font-weight="normal">
-                        <text>
-                            <tspan x="0" y="15">icon/</tspan>
-                        </text>
-                    </g>
-                    <g id="input/" transform="translate(108.000000, 165.000000)" font-size="16" fill="#FF6666" font-weight="normal">
-                        <g id="Group">
-                            <text id="input/">
-                                <tspan x="0.4" y="15">input/</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="button/" transform="translate(108.000000, 150.000000)" font-size="16" fill="#FF6666" font-weight="normal">
-                        <g id="Group">
-                            <text id="button/">
-                                <tspan x="0.4" y="15">button/</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <path d="M74,151.5 L74,235.5 L74,236 L74.5,236 L74.5,235.5 L74.5,151.5 L74.5,151 L74,151 L74,151.5 Z M75.5,236.5 L104.5,236.5 L105,236.5 L105,236 L104.5,236 L75.5,236 L75,236 L75,236.5 L75.5,236.5 Z M75.5,220.5 L104.5,220.5 L105,220.5 L105,220 L104.5,220 L75.5,220 L75,220 L75,220.5 L75.5,220.5 Z M75.5,205.5 L104.5,205.5 L105,205.5 L105,205 L104.5,205 L75.5,205 L75,205 L75,205.5 L75.5,205.5 Z M75.5,190.5 L104.5,190.5 L105,190.5 L105,190 L104.5,190 L75.5,190 L75,190 L75,190.5 L75.5,190.5 Z M75.5,175.5 L104.5,175.5 L105,175.5 L105,175 L104.5,175 L75.5,175 L75,175 L75,175.5 L75.5,175.5 Z M75.5,160.5 L104.5,160.5 L105,160.5 L105,160 L104.5,160 L75.5,160 L75,160 L75,160.5 L75.5,160.5 Z" id="Combined-Shape" stroke="#000000" stroke-linecap="square"></path>
-                    <g id="└──lib/" transform="translate(40.000000, 134.000000)">
-                        <text id="lib/" fill="#000000" font-size="16" font-weight="normal">
-                            <tspan x="49" y="16">lib/</tspan>
-                        </text>
-                        <path d="M1.5,11.5 L45.5,11.5 L46,11.5 L46,11 L45.5,11 L1.5,11 L1,11 L1,11.5 L1.5,11.5 Z M0,0.5 L0,10.5 L0,11 L0.5,11 L0.5,10.5 L0.5,0.5 L0.5,0 L0,0 L0,0.5 Z" id="Combined-Shape" stroke="#000000" stroke-linecap="square"></path>
-                    </g>
-                    <g id="link/" transform="translate(109.000000, 120.000000)" font-size="16" fill="#000000" font-weight="normal">
-                        <text>
-                            <tspan x="0" y="15">link/</tspan>
-                        </text>
-                    </g>
-                    <g id="icon/" transform="translate(109.000000, 105.000000)" font-size="16" fill="#000000" font-weight="normal">
-                        <text>
-                            <tspan x="0" y="15">icon/</tspan>
-                        </text>
-                    </g>
-                    <g id="logo/" transform="translate(108.000000, 89.000000)" font-size="16" fill="#FF6666" font-weight="normal">
-                        <g id="Group">
-                            <text id="logo/">
-                                <tspan x="0.4" y="15">logo/</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="input/" transform="translate(108.000000, 75.000000)" font-size="16" fill="#FF6666" font-weight="normal">
-                        <g id="Group">
-                            <text id="input/">
-                                <tspan x="0.4" y="15">input/</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="button/" transform="translate(108.000000, 60.000000)" font-size="16" fill="#FF6666" font-weight="normal">
-                        <text>
-                            <tspan x="0.4" y="15">button/</tspan>
-                        </text>
-                    </g>
-                    <path d="M74,61.4058824 L74,129.594118 L74,130 L74.5,130 L74.5,129.594118 L74.5,61.4058824 L74.5,61 L74,61 L74,61.4058824 Z M75.5,130.5 L104.5,130.5 L105,130.5 L105,130 L104.5,130 L75.5,130 L75,130 L75,130.5 L75.5,130.5 Z M75.5,114.5 L104.5,114.5 L105,114.5 L105,114 L104.5,114 L75.5,114 L75,114 L75,114.5 L75.5,114.5 Z M75.5,99.5 L104.5,99.5 L105,99.5 L105,99 L104.5,99 L75.5,99 L75,99 L75,99.5 L75.5,99.5 Z M75.5,84.5 L104.5,84.5 L105,84.5 L105,84 L104.5,84 L75.5,84 L75,84 L75,84.5 L75.5,84.5 Z M75.5,69.5 L104.5,69.5 L105,69.5 L105,69 L104.5,69 L75.5,69 L75,69 L75,69.5 L75.5,69.5 Z" id="Combined-Shape" stroke="#000000" stroke-linecap="square"></path>
-                    <g id="└──blocks/" transform="translate(40.000000, 44.000000)">
-                        <text id="blocks/" fill="#000000" font-size="16" font-weight="normal">
-                            <tspan x="49" y="16">blocks/</tspan>
-                        </text>
-                        <path d="M1.5,11.5 L45.5,11.5 L46,11.5 L46,11 L45.5,11 L1.5,11 L1,11 L1,11.5 L1.5,11.5 Z M0,0.5 L0,10.5 L0,11 L0.5,11 L0.5,10.5 L0.5,0.5 L0.5,0 L0,0 L0,0.5 Z" id="Combined-Shape" stroke="#000000" stroke-linecap="square"></path>
-                    </g>
-                    <g id="project/" transform="translate(1.000000, 29.000000)" font-size="16" fill="#000000" font-weight="normal">
-                        <g id="Group">
-                            <text id="project/">
-                                <tspan x="0" y="15">project/</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="Source-files" font-size="16" fill="#333333" font-weight="bold">
-                        <text>
-                            <tspan x="0" y="15">Source files</tspan>
-                        </text>
-                    </g>
-                </g>
-                <path d="M198,221 L229,221 L229,222 L198,222 L198,221 L198,221 L198,221 Z M234,221.5 L229,224 L229,219 L234,221.5 L234,221.5 L234,221.5 Z M198,236 L229,236 L229,237 L198,237 L198,236 L198,236 L198,236 Z M234,236.5 L229,239 L229,234 L234,236.5 L234,236.5 L234,236.5 Z M198,251 L229,251 L229,252 L198,252 L198,251 L198,251 L198,251 Z M234,251.5 L229,254 L229,249 L234,251.5 L234,251.5 L234,251.5 Z M198,311 L229,311 L229,312 L198,312 L198,311 L198,311 L198,311 Z M234,311.5 L229,314 L229,309 L234,311.5 L234,311.5 L234,311.5 Z M198,326 L229,326 L229,327 L198,327 L198,326 L198,326 L198,326 Z M234,326.5 L229,329 L229,324 L234,326.5 L234,326.5 L234,326.5 Z M198,371 L229,371 L229,372 L198,372 L198,371 L198,371 L198,371 Z M234,371.5 L229,374 L229,369 L234,371.5 L234,371.5 L234,371.5 Z" id="Shape" fill="#FF6666"></path>
-                <g id="Declaration" transform="translate(255.000000, 0.000000)" font-size="16" fill="#333333" font-weight="bold">
-                    <g id="Group">
-                        <text id="Declaration">
-                            <tspan x="0.411" y="15">Declaration</tspan>
-                        </text>
-                    </g>
-                </g>
-                <path d="M189,128 L187.99,128 C186.34,128 185,123.778 185,118.6 L185,43.4 C185,38.209 186.343,34 187.997,34 L189,34" id="Shape" stroke-opacity="0.8" stroke="#000000"></path>
-                <path d="M410,128 L411.01,128 C412.66,128 414,123.778 414,118.6 L414,43.4 C414,38.209 412.657,34 411.003,34 L410,34" id="Shape" stroke-opacity="0.8" stroke="#000000"></path>
-                <g transform="translate(199.000000, 32.000000)" font-size="16" font-weight="normal">
-                    <g id="];" transform="translate(0.000000, 75.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="];">
-                                <tspan x="0" y="15">];</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="}" transform="translate(192.000000, 60.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="}">
-                                <tspan x="0.8" y="15">}</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="&quot;langswitch&quot;" transform="translate(103.000000, 60.000000)" fill="#FF6666">
-                        <g id="Group">
-                            <text id="&quot;langswitch&quot;">
-                                <tspan x="0" y="15">"langswitch"</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=":" transform="translate(92.000000, 60.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id=":">
-                                <tspan x="0" y="15">:</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="&quot;name&quot;" transform="translate(41.000000, 60.000000)" fill="#FF6666">
-                        <g id="Group">
-                            <text id="&quot;name&quot;">
-                                <tspan x="0" y="15">"name"</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="{" transform="translate(26.000000, 60.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="{">
-                                <tspan x="0" y="15">{</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="}," transform="translate(154.000000, 45.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="},">
-                                <tspan x="0.8" y="15">},</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="&quot;input&quot;" transform="translate(103.000000, 45.000000)" fill="#FF6666">
-                        <g id="Group">
-                            <text id="&quot;input&quot;">
-                                <tspan x="0" y="15">"input"</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=":" transform="translate(92.000000, 45.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id=":">
-                                <tspan x="0" y="15">:</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="&quot;name&quot;" transform="translate(41.000000, 45.000000)" fill="#FF6666">
-                        <g id="Group">
-                            <text id="&quot;name&quot;">
-                                <tspan x="0" y="15">"name"</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="{" transform="translate(26.000000, 45.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="{">
-                                <tspan x="0" y="15">{</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="}," transform="translate(150.000000, 30.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="},">
-                                <tspan x="0.8" y="15">},</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="&quot;logo&quot;" transform="translate(103.000000, 30.000000)" fill="#FF6666">
-                        <g id="Group">
-                            <text id="&quot;logo&quot;">
-                                <tspan x="0" y="15">"logo"</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=":" transform="translate(92.000000, 30.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id=":">
-                                <tspan x="0" y="15">:</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="&quot;name&quot;" transform="translate(41.000000, 30.000000)" fill="#FF6666">
-                        <g id="Group">
-                            <text id="&quot;name&quot;">
-                                <tspan x="0" y="15">"name"</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="{" transform="translate(26.000000, 30.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="{">
-                                <tspan x="0" y="15">{</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="}," transform="translate(164.000000, 15.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="},">
-                                <tspan x="0.8" y="15">},</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="&quot;button&quot;" transform="translate(103.000000, 15.000000)" fill="#FF6666">
-                        <g id="Group">
-                            <text id="&quot;button&quot;">
-                                <tspan x="0" y="15">"button"</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=":" transform="translate(92.000000, 15.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id=":">
-                                <tspan x="0" y="15">:</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="&quot;name&quot;" transform="translate(41.000000, 15.000000)" fill="#FF6666">
-                        <g id="Group">
-                            <text id="&quot;name&quot;">
-                                <tspan x="0" y="15">"name"</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="{" transform="translate(26.000000, 15.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="{">
-                                <tspan x="0" y="15">{</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="=-[" transform="translate(117.000000, 0.000000)" fill="#000000">
-                        <g id="Group">
-                            <text id="=-[">
-                                <tspan x="0" y="15">= [</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="exports.blocks" fill="#008080">
-                        <text>
-                            <tspan x="0" y="15">exports.blocks</tspan>
-                        </text>
-                    </g>
-                </g>
-                <path d="M300,140 L300,171 L299,171 L299,140 L300,140 L300,140 L300,140 Z M299.5,176 L297,171 L302,171 L299.5,176 L299.5,176 L299.5,176 Z" id="Shape" fill="#FF6666"></path>
-                <rect id="Rectangle-path" stroke-opacity="0.2" stroke="#000000" fill-opacity="0.05" fill="#000000" x="250" y="187" width="100" height="230" rx="3"></rect>
-                <rect id="Rectangle-path" stroke="#FFFFFF" x="250" y="187" width="100" height="230" rx="3"></rect>
-                <g id="Build" transform="translate(282.500000, 291.000000)" font-size="16" fill="#333333" font-weight="bold">
-                    <g id="Group">
-                        <text id="Build">
-                            <tspan x="0.434" y="15.541">Build</tspan>
-                        </text>
-                    </g>
-                </g>
-                <polygon id="Shape" stroke-opacity="0.1" stroke="#000000" fill="#F6F5F3" points="432 219 739 219 739 396 432 396"></polygon>
-                <g transform="translate(443.000000, 229.000000)" font-size="16" font-weight="normal">
-                    <g id="@import" fill="#A71D5D">
-                        <text>
-                            <tspan x="0" y="15">@import</tspan>
-                        </text>
-                    </g>
-                    <g id="“lib/button/button.css”" transform="translate(71.000000, 0.000000)" fill="#183691">
-                        <g id="Group">
-                            <text id="“lib/button/button.css”">
-                                <tspan x="0.4" y="15">“lib/button/button.css”</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=";" transform="translate(216.000000, 0.000000)" fill="#333333">
-                        <g id="Group">
-                            <text id=";">
-                                <tspan x="0.8" y="15">;</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="@import" transform="translate(0.000000, 15.000000)" fill="#A71D5D">
-                        <g id="Group">
-                            <text id="@import">
-                                <tspan x="0" y="15">@import</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="“blocks/button/button.css”" transform="translate(71.000000, 15.000000)" fill="#183691">
-                        <g id="Group">
-                            <text id="“blocks/button/button.css”">
-                                <tspan x="0.4" y="15">“blocks/button/button.css”</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=";" transform="translate(245.000000, 15.000000)" fill="#333333">
-                        <g id="Group">
-                            <text id=";">
-                                <tspan x="0.2" y="15">;</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="@import" transform="translate(0.000000, 45.000000)" fill="#A71D5D">
-                        <g id="Group">
-                            <text id="@import">
-                                <tspan x="0" y="15">@import</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="“lib/input/input.css”" transform="translate(71.000000, 45.000000)" fill="#183691">
-                        <g id="Group">
-                            <text id="“lib/input/input.css”">
-                                <tspan x="0.4" y="15">“lib/input/input.css”</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=";" transform="translate(199.000000, 45.000000)" fill="#333333">
-                        <g id="Group">
-                            <text id=";">
-                                <tspan x="0.2" y="15">;</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="@import" transform="translate(0.000000, 60.000000)" fill="#A71D5D">
-                        <g id="Group">
-                            <text id="@import">
-                                <tspan x="0" y="15">@import</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="“blocks/input/input.css”" transform="translate(71.000000, 60.000000)" fill="#183691">
-                        <g id="Group">
-                            <text id="“blocks/input/input.css”">
-                                <tspan x="0.4" y="15">“blocks/input/input.css”</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=";" transform="translate(226.000000, 60.000000)" fill="#333333">
-                        <g id="Group">
-                            <text id=";">
-                                <tspan x="0.6" y="15">;</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="@import" transform="translate(0.000000, 90.000000)" fill="#A71D5D">
-                        <g id="Group">
-                            <text id="@import">
-                                <tspan x="0" y="15">@import</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="“lib/langswitch/" transform="translate(71.000000, 90.000000)" fill="#183691">
-                        <g id="Group">
-                            <text id="“lib/langswitch/">
-                                <tspan x="0.4" y="15">“lib/langswitch/</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="langswitch.css”" transform="translate(176.000000, 90.000000)" fill="#183691">
-                        <g id="Group">
-                            <text id="langswitch.css”">
-                                <tspan x="0" y="15">langswitch.css”</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=";" transform="translate(277.000000, 89.000000)" fill="#333333">
-                        <g id="Group">
-                            <text id=";">
-                                <tspan x="0" y="15">;</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="@import" transform="translate(0.000000, 120.000000)" fill="#A71D5D">
-                        <g id="Group">
-                            <text id="@import">
-                                <tspan x="0" y="15">@import</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="“blocks/logo/logo.css”" transform="translate(71.000000, 120.000000)" fill="#183691">
-                        <g id="Group">
-                            <text id="“blocks/logo/logo.css”">
-                                <tspan x="0.4" y="15">“blocks/logo/logo.css”</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id=";" transform="translate(217.000000, 120.000000)" fill="#333333">
-                        <g id="Group">
-                            <text id=";">
-                                <tspan x="0" y="15">;</tspan>
-                            </text>
-                        </g>
-                    </g>
-                </g>
-                <g id="project.css" transform="translate(542.000000, 187.000000)" font-size="16" fill="#333333" font-weight="bold">
-                    <text>
-                        <tspan x="0.411" y="15">project.css</tspan>
-                    </text>
-                </g>
-                <g id="Shape" transform="translate(371.000000, 300.000000)" fill="#FF6666">
-                    <path d="M0,2 L31,2 L31,3 L0,3 L0,2 L0,2 L0,2 Z M36,2.5 L31,5 L31,0 L36,2.5 L36,2.5 L36,2.5 Z"></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generated by Microsoft Visio, SVG Export build__declaration.svg new-page -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="11.6929in" height="8.26772in" viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st21">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffcc00;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:none;marker-end:url(#mrkr13-6);stroke:none;stroke-linecap:butt;stroke-width:1.5}
+		.st3 {fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st4 {fill:#000000;font-family:Yandex Sans Text Light;font-size:1.16666em;font-weight:bold}
+		.st5 {stroke:#000000;stroke-linecap:butt;stroke-width:1.5}
+		.st6 {fill:#000000;font-family:Yandex Sans Text Light;font-size:1.16666em}
+		.st7 {fill:#ff6666;font-family:Yandex Sans Text Light;font-size:1.16666em}
+		.st8 {marker-end:url(#mrkr3-142);stroke:#ff6666;stroke-linecap:butt;stroke-width:1.5}
+		.st9 {fill:#ff6666;fill-opacity:1;stroke:#ff6666;stroke-opacity:1;stroke-width:0.45454545454545}
+		.st10 {fill:#000000;font-family:Yandex Sans Text Light;font-size:1.00001em;font-weight:bold}
+		.st11 {fill:#00b050;font-family:Yandex Sans Text Light;font-size:1.16666em}
+		.st12 {fill:#000000;font-size:1em}
+		.st13 {fill:#ff6666;font-size:1em}
+		.st14 {font-size:1em}
+		.st15 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st16 {fill:#f6f5f3;stroke:#000000;stroke-linecap:butt;stroke-opacity:0.098;stroke-width:0.75}
+		.st17 {fill:#660033;font-family:Yandex Sans Text Light;font-size:1.16666em}
+		.st18 {fill:#002060;font-size:1em}
+		.st19 {fill:#000000;fill-opacity:0.047;stroke:#000000;stroke-linecap:butt;stroke-opacity:0.2;stroke-width:0.75}
+		.st20 {fill:none;stroke:#ffffff;stroke-linecap:butt;stroke-width:0.75}
+		.st21 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-11" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#f2f2f2" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-6" class="st3" refX="-8.04" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-2.68,-2.68) "/>
+		</marker>
+		<g id="lend3">
+			<path d="M 2 1 L 0 0 L 2 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr3-142" class="st9" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend3" transform="scale(-2.2,-2.2) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>scheme1</title>
+		<g id="shape1-1" transform="translate(172.685,-368.504)">
+			<title>Горизонтальная линия выноски.540</title>
+			<path d="M0 595.28 L134.31 595.28 L0 595.28 Z" class="st1"/>
+		</g>
+		<g id="shape4-3" transform="translate(34.8661,-325.984)">
+			<title>Text (14).543</title>
+			<desc>Source files</desc>
+			<rect x="0" y="566.929" width="133.228" height="28.3465" class="st2"/>
+			<text x="30.63" y="585.3" class="st4">Source files</text>		</g>
+		<g id="shape5-8" transform="translate(732.189,311.811) rotate(90)">
+			<title>Line.544</title>
+			<path d="M0 595.28 L65.2 595.28" class="st5"/>
+		</g>
+		<g id="shape6-13" transform="translate(105.732,-277.795)">
+			<title>Text (14).543.6</title>
+			<desc>blocks/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="19.68" y="585.3" class="st6">blocks/</text>		</g>
+		<g id="shape7-17" transform="translate(136.913,-274.961)">
+			<title>Line.544.7</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape8-21" transform="translate(134.079,-260.787)">
+			<title>Text (14).543.8</title>
+			<desc>button/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="18.45" y="585.3" class="st7">button/</text>		</g>
+		<g id="shape9-25" transform="translate(128.409,-246.614)">
+			<title>Text (14).543.9</title>
+			<desc>input/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="23.45" y="585.3" class="st7">input/</text>		</g>
+		<g id="shape10-29" transform="translate(125.575,-232.441)">
+			<title>Text (14).543.10</title>
+			<desc>logo/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="25.95" y="585.3" class="st7">logo/</text>		</g>
+		<g id="shape11-33" transform="translate(136.913,-260.787)">
+			<title>Line.11</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape12-37" transform="translate(136.913,-246.614)">
+			<title>Line.12</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape13-41" transform="translate(125.575,-218.268)">
+			<title>Text (14).543.13</title>
+			<desc>icon/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="26.7" y="585.3" class="st6">icon/</text>		</g>
+		<g id="shape14-45" transform="translate(122.74,-204.094)">
+			<title>Text (14).543.14</title>
+			<desc>link/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="29.21" y="585.3" class="st6">link/</text>		</g>
+		<g id="shape15-49" transform="translate(136.913,-232.441)">
+			<title>Line.15</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape16-53" transform="translate(136.913,-218.268)">
+			<title>Line.16</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape17-57" transform="translate(49.0394,-294.803)">
+			<title>Text (14).17</title>
+			<desc>project/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="17.68" y="585.3" class="st6">project/</text>		</g>
+		<g id="shape18-61" transform="translate(102.898,-291.969)">
+			<title>Line.544.18</title>
+			<path d="M0 595.28 L19.84 595.28" class="st5"/>
+		</g>
+		<g id="shape19-65" transform="translate(698.173,291.969) rotate(90)">
+			<title>Line.544.19</title>
+			<path d="M0 595.28 L11.34 595.28" class="st5"/>
+		</g>
+		<g id="shape20-69" transform="translate(105.732,-198.425)">
+			<title>Line.20</title>
+			<path d="M0 595.28 L19.84 595.28" class="st5"/>
+		</g>
+		<g id="shape21-73" transform="translate(701.008,385.512) rotate(90)">
+			<title>Line.21</title>
+			<path d="M0 595.28 L11.34 595.28" class="st5"/>
+		</g>
+		<g id="shape22-77" transform="translate(97.2283,-184.252)">
+			<title>Text (14).22</title>
+			<desc>lib/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="32.48" y="585.3" class="st6">lib/</text>		</g>
+		<g id="shape23-81" transform="translate(136.913,-182.835)">
+			<title>Line.23</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape24-85" transform="translate(128.409,-154.488)">
+			<title>Text (14).24</title>
+			<desc>input/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="23.45" y="585.3" class="st7">input/</text>		</g>
+		<g id="shape25-89" transform="translate(125.575,-140.315)">
+			<title>Text (14).25</title>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+		</g>
+		<g id="shape26-92" transform="translate(136.913,-168.661)">
+			<title>Line.26</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape27-96" transform="translate(136.913,-154.488)">
+			<title>Line.27</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape28-100" transform="translate(125.575,-141.732)">
+			<title>Text (14).28</title>
+			<desc>icon/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="26.7" y="585.3" class="st6">icon/</text>		</g>
+		<g id="shape29-104" transform="translate(145.417,-111.969)">
+			<title>Text (14).29</title>
+			<desc>langswitch/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="6.19" y="585.3" class="st7">langswitch/</text>		</g>
+		<g id="shape30-108" transform="translate(136.913,-140.315)">
+			<title>Line.30</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape31-112" transform="translate(136.913,-126.142)">
+			<title>Line.31</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape32-116" transform="translate(134.079,-170.079)">
+			<title>Text (14).32</title>
+			<desc>button/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="18.45" y="585.3" class="st7">button/</text>		</g>
+		<g id="shape33-120" transform="translate(732.189,403.937) rotate(90)">
+			<title>Line.33</title>
+			<path d="M0 595.28 L77.95 595.28" class="st5"/>
+		</g>
+		<g id="shape34-124" transform="translate(131.244,-127.559)">
+			<title>Text (14).543.34</title>
+			<desc>image/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="20.32" y="585.3" class="st6">image/</text>		</g>
+		<g id="shape35-128" transform="translate(134.079,-99.2126)">
+			<title>Text (14).543.35</title>
+			<desc>popup/</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="18.94" y="585.3" class="st6">popup/</text>		</g>
+		<g id="shape36-132" transform="translate(136.913,-113.386)">
+			<title>Line.36</title>
+			<path d="M0 595.28 L14.17 595.28" class="st5"/>
+		</g>
+		<g id="shape37-136" transform="translate(241.795,-274.961)">
+			<title>Basic Arrow 1.545</title>
+			<path d="M0 595.28 L51.02 595.28" class="st8"/>
+		</g>
+		<g id="shape38-143" transform="translate(241.795,-260.787)">
+			<title>Basic Arrow 1.38</title>
+			<path d="M0 595.28 L51.02 595.28" class="st8"/>
+		</g>
+		<g id="shape39-149" transform="translate(241.795,-246.614)">
+			<title>Basic Arrow 1.39</title>
+			<path d="M0 595.28 L51.02 595.28" class="st8"/>
+		</g>
+		<g id="shape40-155" transform="translate(241.795,-184.252)">
+			<title>Basic Arrow 1.40</title>
+			<path d="M0 595.28 L51.02 595.28" class="st8"/>
+		</g>
+		<g id="shape41-161" transform="translate(241.795,-170.079)">
+			<title>Basic Arrow 1.41</title>
+			<path d="M0 595.28 L51.02 595.28" class="st8"/>
+		</g>
+		<g id="shape42-167" transform="translate(241.795,-127.559)">
+			<title>Basic Arrow 1.42</title>
+			<path d="M0 595.28 L51.02 595.28" class="st8"/>
+		</g>
+		<g id="shape44-173" transform="translate(306.992,-510.236)">
+			<title>Text Bold (14).546</title>
+			<desc>Declaration</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="11.76" y="584.7" class="st10">Declaration</text>		</g>
+		<g id="shape95-177" transform="translate(243.496,-467.717)">
+			<title>Text (14).543.95</title>
+			<desc>exports.blocks = [</desc>
+			<rect x="0" y="566.929" width="148.535" height="28.3465" class="st2"/>
+			<text x="19.78" y="585.3" class="st11">exports.blocks<tspan class="st12"> </tspan><tspan class="st12">= [</tspan></text>		</g>
+		<g id="shape96-183" transform="translate(273.618,-416.879)">
+			<title>Text (14).543.96</title>
+			<desc>{ “name”: “button” }, { “name”: “logo” }, { “name”: “input” }...</desc>
+			<rect x="0" y="550.294" width="169.795" height="44.9814" class="st2"/>
+			<text x="4" y="551.79" class="st6">{ <tspan class="st13">“name”</tspan>: <tspan class="st13">“button”</tspan> }, <tspan
+						x="4" dy="1.2em" class="st14">{ </tspan><tspan class="st13">“name”</tspan>: <tspan class="st13">“logo”</tspan> }, <tspan
+						x="4" dy="1.2em" class="st14">{ </tspan><tspan class="st13">“name”</tspan>: <tspan class="st13">“input”</tspan> }, <tspan
+						x="4" dy="1.2em" class="st14">{ </tspan><tspan class="st13">“name”</tspan>: <tspan class="st13">“langswitch”</tspan> }</text>		</g>
+		<g id="shape113-198" transform="translate(227.368,-382.677)">
+			<title>Text (14).543.113</title>
+			<desc>];</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="38.49" y="585.3" class="st6">];</text>		</g>
+		<g id="group115-202" transform="translate(-295.654,207.908) rotate(-90)">
+			<title>Comment.555</title>
+			<g id="shape116-203" transform="translate(52.0022,-63.4961)">
+				<title>Sheet.116</title>
+				<path d="M14.17 595.28 L0 595.28" class="st15"/>
+			</g>
+			<g id="shape117-206" transform="translate(595.276,531.78) rotate(90)">
+				<title>Sheet.117</title>
+				<path d="M6.8 491.27 L3.4 491.27 A3.40157 3.40157 -180 0 0 0 494.67 L0 591.87 A3.40157 3.40157 -180 0 0 3.4 595.28
+							 L6.8 595.28" class="st15"/>
+			</g>
+		</g>
+		<g id="group118-209" transform="translate(-146.618,206.304) rotate(-90)">
+			<title>Comment.118</title>
+			<g id="shape119-210" transform="translate(56.6007,1190.53) rotate(179.557)">
+				<title>Sheet.119</title>
+				<path d="M8.69 595.28 L0 595.28" class="st15"/>
+			</g>
+			<g id="shape120-213" transform="translate(595.276,595.276) rotate(90) scale(-1,1)">
+				<title>Sheet.120</title>
+				<path d="M6.87 491.27 L3.44 491.27 A3.43514 3.43514 -180 0 0 0 494.71 L0 591.84 A3.43514 3.43514 -180 0 0 3.44 595.28
+							 L6.87 595.28" class="st15"/>
+			</g>
+		</g>
+		<g id="shape122-216" transform="translate(941.953,226.772) rotate(90)">
+			<title>Basic Arrow 1.122</title>
+			<path d="M0 595.28 L42.52 595.28" class="st8"/>
+		</g>
+		<g id="shape125-222" transform="translate(406.205,-198.425)">
+			<title>Basic Arrow 1.125</title>
+			<path d="M0 595.28 L51.02 595.28" class="st8"/>
+		</g>
+		<g id="shape126-228" transform="translate(538.016,-325.984)">
+			<title>Text (14).126</title>
+			<desc>project.css</desc>
+			<rect x="0" y="566.929" width="133.228" height="28.3465" class="st2"/>
+			<text x="32.4" y="585.3" class="st4">project.css</text>		</g>
+		<g id="shape128-232" transform="translate(474.236,-99.2126)">
+			<title>Rectangle-25</title>
+			<rect x="0" y="396.85" width="311.811" height="198.425" class="st16"/>
+		</g>
+		<g id="shape129-234" transform="translate(502.583,-184.252)">
+			<title>Text (14).129</title>
+			<desc>@import “lib/button/button.css”; @import “blocks/button/butto...</desc>
+			<rect x="0" y="566.929" width="325.984" height="28.3465" class="st2"/>
+			<text x="4" y="509.7" class="st17">@import<tspan class="st12">  </tspan><tspan class="st18">“lib</tspan><tspan
+						class="st18">/</tspan><tspan class="st18">button</tspan><tspan class="st18">/</tspan><tspan class="st18">button</tspan><tspan
+						class="st18">.</tspan><tspan class="st18">css”</tspan><tspan class="st12">; </tspan><tspan x="4" dy="1.2em"
+						class="st14">@</tspan>import<tspan class="st12">  </tspan><tspan class="st18">“blocks</tspan><tspan
+						class="st18">/</tspan><tspan class="st18">button</tspan><tspan class="st18">/</tspan><tspan class="st18">button</tspan><tspan
+						class="st18">.</tspan><tspan class="st18">css”</tspan><tspan class="st12">;  </tspan><tspan x="4"
+						dy="2.4em" class="st14">@</tspan>import<tspan class="st12">  </tspan><tspan class="st18">“lib</tspan><tspan
+						class="st18">/</tspan><tspan class="st18">input</tspan><tspan class="st18">/</tspan><tspan class="st18">input</tspan><tspan
+						class="st18">.</tspan><tspan class="st18">css”</tspan><tspan class="st12">; </tspan><tspan x="4" dy="1.2em"
+						class="st14">@</tspan>import<tspan class="st12">  </tspan><tspan class="st18">“blocks</tspan><tspan
+						class="st18">/</tspan><tspan class="st18">input</tspan><tspan class="st18">/</tspan><tspan class="st18">input</tspan><tspan
+						class="st18">.</tspan><tspan class="st18">css”</tspan><tspan class="st12">;  </tspan><tspan x="4"
+						dy="2.4em" class="st14">@</tspan>import<tspan class="st12"> </tspan><tspan class="st18"> </tspan><tspan
+						class="st18">“lib</tspan><tspan class="st18">/</tspan><tspan class="st18">langswitch</tspan><tspan
+						class="st18">/</tspan><tspan class="st18">langswitch</tspan><tspan class="st18">.</tspan><tspan
+						class="st18">css”</tspan><tspan class="st12">;  </tspan><tspan x="4" dy="2.4em" class="st14">@</tspan>import<tspan
+						class="st12">  </tspan><tspan class="st18">“blocks</tspan><tspan class="st18">/</tspan><tspan class="st18">logo</tspan><tspan
+						class="st18">/</tspan><tspan class="st18">logo</tspan><tspan class="st18">.</tspan><tspan class="st18">css”</tspan><tspan
+						class="st12">;</tspan></text>		</g>
+		<g id="group130-298" transform="translate(304.157,-85.0394)">
+			<title>Rectangle-22</title>
+			<g id="shape131-299">
+				<title>path-3</title>
+				<path d="M0 592.32 A2.55124 2.95796 -180 0 0 2.55 595.28 L82.49 595.28 A2.55124 2.95796 -180 0 0 85.04 592.32 L85.04
+							 371.46 A2.55124 2.95796 -180 0 0 82.49 368.5 L2.55 368.5 A2.55124 2.95796 -180 0 0 -0 371.46 L0 592.32
+							 Z" class="st19"/>
+			</g>
+			<g id="shape132-301">
+				<title>Sheet.132</title>
+				<path d="M0 592.32 A2.55124 2.95796 -180 0 0 2.55 595.28 L82.49 595.28 A2.55124 2.95796 -180 0 0 85.04 592.32 L85.04
+							 371.46 A2.55124 2.95796 -180 0 0 82.49 368.5 L2.55 368.5 A2.55124 2.95796 -180 0 0 -0 371.46 L0 592.32
+							 Z" class="st20"/>
+			</g>
+		</g>
+		<g id="shape133-303" transform="translate(304.157,-184.252)">
+			<title>Text Bold (14).546.133</title>
+			<desc>Build</desc>
+			<rect x="0" y="566.929" width="85.0394" height="28.3465" class="st2"/>
+			<text x="29.06" y="584.7" class="st10">Build</text>		</g>
+	</g>
 </svg>
